@@ -1,3 +1,6 @@
 venv
 .env
 *.txt
+storage/
+*.pdf
+*.sqlite3
